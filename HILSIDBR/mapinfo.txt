@@ -1,0 +1,11 @@
+clearepisodes
+episode E1M1 {}
+map E1M1 "Hillside Bar" {
+	author = "andOlga"
+	music = "MUS_E1M5"
+	skybox = "SKY3"
+	NoJump
+	NoCrouch
+	NoInfighting
+	Par = 210
+}

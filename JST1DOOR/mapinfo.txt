@@ -1,0 +1,13 @@
+map MAP01 "Just One Door"
+{
+	Author = "&Olga"
+	Next = "MAP01"
+	NoInfighting
+	NoJump
+	NoCrouch
+	Music = "D_RUNNIN"
+	Skybox = "SKY1"
+}
+
+clearepisodes
+episode MAP01 {}
