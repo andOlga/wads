@@ -1,0 +1,6 @@
+map MAP01 "Eagle" {
+	Author = "&Olga"
+	Music = "M_MAP136"
+	NoJump
+	NoCrouch
+}

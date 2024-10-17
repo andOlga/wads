@@ -1,0 +1,27 @@
+
+
+class EagleCacoStatue : Cacodemon {
+	Default {
+		+DORMANT;
+		-CountKill;
+	}
+	States {
+		Spawn:
+			EAGC A -1;
+			Stop;
+	}
+}
+
+class EmptyChaingunGuy : ChaingunGuy {
+	Default {
+		DropItem "None";
+	}
+}
+
+class BagOfDoritos : HealthBonus {
+	States {
+		Spawn:
+			BON1 A -1;
+			Stop;
+	}
+}
