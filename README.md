@@ -6,7 +6,7 @@ Each mod is stored in a single toplevel folder, containing at least:
 
 To play any of the mods, you can do any of the following:
 - Drag-and-drop the folder itself onto `gzdoom.exe` (Windows only).
-- Pass the path to the mods folder into a `-file` parameter when starting GZDoom.
+- Pass the path to the mod's folder into a `-file` parameter when starting GZDoom.
 - Zip the folder up and rename the archive to `.pk3`, then double-click it to play (picking GZDoom for the file association if prompted).
 
 No pull requests or other forms of communication are accepted on this repository.
