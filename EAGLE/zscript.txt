@@ -1,4 +1,4 @@
-
+class TeleportFrog : TeleportFog {}
 
 class EagleCacoStatue : Cacodemon {
 	Default {
