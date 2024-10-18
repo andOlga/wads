@@ -1,0 +1,3 @@
+IWAD = "DOOM2.WAD"
+STARTUPTITLE = "Ketchup Production Facility"
+LOAD = "OTEX_1.1.WAD"

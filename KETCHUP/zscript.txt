@@ -1,0 +1,33 @@
+class Ohimflythankyouforever : PowerFlight
+{
+	Default {
+		Powerup.Duration 0x7FFFFFFD;
+	}
+}
+
+class Jetpack : PowerupGiver {
+	Default {
+		Height 26;
+		+CountItem;
+		+Inventory.AutoActivate;
+		Inventory.PickupMessage "Picked up a jetpack!";
+		Powerup.Type "Ohimflythankyouforever";
+	}
+	States {
+		Spawn:
+			BPAK A -1;
+			Stop;
+	}
+}
+
+class FlyShellBox : ShellBox {
+	Default {
+		+NOGRAVITY;
+	}
+}
+
+class FlyClipBox : ClipBox {
+	Default {
+		+NOGRAVITY;
+	}
+}

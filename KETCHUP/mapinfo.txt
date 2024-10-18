@@ -1,0 +1,12 @@
+map MAP01 "Ketchup Production Facility" {
+	Author = "&Olga"
+	Music = "D_RUNNIN"
+	NoJump
+	NoCrouch
+	Skybox = "OSKY01"
+	Par = 480
+}
+
+DoomedNums {
+	11001 = Jetpack
+}
