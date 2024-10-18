@@ -1,0 +1,17 @@
+
+
+class TeleportFrog : TeleportFog {}
+
+class CyberdemonButHeDropsABlueCardAndIsNotAsAnnoying : Cyberdemon {
+	Default {
+		DropItem "BlueCard";
+		Health 2000;
+	}
+}
+
+class SpiderMastermindButSheDropsAYellowCardAndIsReallyReallyStrongLikeYouAreSeriouslyGoingToHaveALotOfTroubleWithThisOneIMeanHoursAndHoursOfSufferingJustRunAwayMan : SpiderMastermind {
+	Default {
+		DropItem "YellowCard";
+		Health 1;
+	}
+}
