@@ -15,7 +15,7 @@ To download individual mods, click the folder for the mod you want, then copy th
 # Playing
 
 To play any of the mods, you can do any of the following:
-- Drag-and-drop the folder itself onto `gzdoom.exe` (Windows only).
+- Drag-and-drop the mod's folder itself onto `gzdoom.exe` (Windows only).
 - Pass the path to the mod's folder into a `-file` parameter when starting GZDoom.
 - Zip the folder up and rename the archive to `.pk3`, then double-click it to play (picking GZDoom for the file association if prompted).
   - If you downloaded an indivudal mod per instructions above, the ZIP you get from that can be renamed into `.pk3` directly.  
