@@ -12,7 +12,7 @@ Each mod is stored in a single toplevel folder, containing at least:
 
 To get the complete mod set, click [here](https://github.com/andOlga/wads/archive/refs/heads/master.zip).
 
-To download individual mods, right click the folder of the mod you want in the file list above, click "Copy link address" and paste it [here](https://download-directory.github.io/).
+To download individual mods, right click the folder of the mod you want in the file list above, click "Copy link address" and then paste the copied link [here](https://download-directory.github.io/).
 
 # Playing
 
